@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Furniture</string>
+    <string name="uygulamaBaslik">FURNITURE</string>
+    <string name="haliAdi">Carpet</string>
+    <string name="sandalyeAdi">Chair</string>
+    <string name="masaAdi">Table</string>
+    <string name="konum">ISTANBUL / TURKEY</string>
+    <string name="mobilyaAciklama">The best furniture e-commerce app for your daily needs</string>
+    <string name="girisYap">SIGN IN </string>
+    <string name="kayitOl">SIGN UP</string>
+
+</resources>

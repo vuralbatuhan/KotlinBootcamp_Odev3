@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Furniture</string>
+    <string name="uygulamaBaslik">MOBİLYA</string>
+    <string name="haliAdi">Halı</string>
+    <string name="sandalyeAdi">Sandalye</string>
+    <string name="masaAdi">Masa</string>
+    <string name="konum">ISTANBUL / TURKEY</string>
+    <string name="mobilyaAciklama">Günlük ihtiyaçlarınız için en iyi mobilya e-ticaret uygulaması</string>
+    <string name="girisYap">Giriş Yap </string>
+    <string name="kayitOl">Kayıt Ol</string>
+
+</resources>
